@@ -12,3 +12,5 @@ In the source code I will call it "rpca-alt"(Alternating projection method for R
 2. ["Robust PCA using Matrix Factorization for Background/Foreground Separation"](https://www.researchgate.net/publication/324051198_Robust_PCA_using_Matrix_Factorization_for_BackgroundForeground_Separation)\
 (Shuqin Wang, Yongli Wang, Yongyong Chen, Peng Pan, Zhipeng Sun, and Guoping He)\
 Later I will call it "rpca-ALF" (RPCA with Augmented Lagrangian Function)
+
+![test_image](test.png)
